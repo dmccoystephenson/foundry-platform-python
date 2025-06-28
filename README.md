@@ -1,4 +1,4 @@
-# Foundry Platform SDK
+# Daniel's Foundry Platform SDK
 
 ![Supported Python Versions](https://img.shields.io/pypi/pyversions/foundry-platform-sdk)
 [![PyPI Version](https://img.shields.io/pypi/v/foundry-platform-sdk)](https://pypi.org/project/foundry-platform-sdk/)
